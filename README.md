@@ -21,8 +21,8 @@ This project automates the installation of Splunk Enterprise, imports a custom d
 
 1. Clone this repository to your EC2 instance:
    ```
-   git clone https://github.com/your-username/splunk-tempo-dashboard-installer.git
-   cd splunk-tempo-dashboard-installer
+   git clone https://github.com/DeepTempo/SplunkDashboards.git
+   cd SplunkDashboards
    ```
 
 2. Place the Splunk Enterprise tarball (e.g., `splunk-*-Linux-x86_64.tgz`) in the same directory as the script.
